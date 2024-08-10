@@ -13,7 +13,15 @@ This repo provides basics of AI fundamentals and preparation notes for AI-900 ce
        - In Machine Learning the basic building bloc is data set. In today's world we have a large voulme of data set about any topic.
        - For any given category that category data is organized with different lables these grouping will have its features under the lable.
        - Then there is an algorithm will build around this data set which identifies relationship between these labeled data set based on it feature and this algorithm will be encapsulated as model about that category.
-       - Then based on this trained algoritham it can able to predicte and provide result. 
+       - Then based on this trained algoritham it can able to predicte and provide result.
+    
+         ### Azure Machine Learning Service
+         - A cloud based service which helps to create, mangae, publish machine learning models.
+         - Azure Machine Learning Studio offers multiple tools to create these models.
+              - Automated Machine Learning - A tool to help create machine learning models with no expertise in the filed of AI.
+              - Azure Machine Learning Designer - A graphical interface to enable no code platform for data model creation.
+              - Data metric visulaiztion - A tool to analyze and optimize the data model experiment process.
+              - Notebooks - A runtime integrated with Azure Machine Learning Studio based on Jupyter Notebook servers used to write code and run.
 
   ### Computer vision
 
