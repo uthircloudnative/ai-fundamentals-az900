@@ -27,6 +27,20 @@ This repo provides basics of AI fundamentals and preparation notes for AI-900 ce
 
   - Its a capabaility of AI system which interpret the world through vidoes, images, videso etc (Visuval capability).
 
+     - Computer vision is an AI division which deals with Visual processing. **Seeing AI** app is an exampled of the same.
+     - Computer vision solutions are based on machine learning models that can be applied on Visuals like images, videos. These macine learning models will perform following tasks.
+   
+          - Image Classification - Involves train a model to make it idenitify and categorize given image based on thier content. Ex in a traffic monitoring solution based on the image it can classify the image based on its content. Wheather given image is car, bus etc.
+          - Object Detection - In this type machine learning models are trained to to identify/classify objects in a given image and their location. Ex in a traffic monitoring application based on image it can identify different objects in the image based on their location.
+          - Semantic Segmantation - In this individual pixels in the images are classified according to each object in the image. Ex in a image it will idenitfy each object color like Red bus, Blue Car etc.
+          - Image analysis - In this category by combining different AI models we can create descriptive image text for a given image.
+          - Face Detection, Analysis and Recognition - This type of machine learning models can identify humean face from the images based on their features.
+          - Optical Character Recognation - Its a technique to detect and read text in a given image.
+
+     - Using Azuer AI  Vision we can create AI based solution for Visuals.
+
+          - **Azuer AI  Vision**  will support Image Analysis, Face recognition, and Optical Character Recognition.
+
   ### Natural Language Processing
 
   - Its a capability of AI system where computer/machine will interpret spoken (voice) or written (text) and respond in kind.
