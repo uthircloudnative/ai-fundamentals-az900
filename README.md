@@ -54,22 +54,22 @@ This repo provides basics of AI fundamentals and preparation notes for AI-900 ce
   - Azure AI speech used to process voice based soultions.
   - Azure AI Language will understand text and transcripts through which we can build solutions. 
 
-  ### Document Intelligence
+  ### Document Intelligence and Knowledge Minning
 
   - Its a capability of AI system where computer/machine will process/mange large volume of data which is in document form.
+  - Its a capability of AI system where it process large volume of unstructured data from which it creates a knowledge base.
 
     - With this capabaility we can process large volume of unstructured data which is in the form of documents and create more useful searchable knowledge based.
     - Then it can be indexed for easy searching and accessability.
     - Using this capability of AI larege volume of data like legal forms, tax documents, aggrements, invoices can be processed and more relevant information will be extracted.
     - **Azure AI Search** is used to create searchable index in large volume of data set.
 
-  ### Knowledge Minning
-
-  - Its a capability of AI system where it process large volume of unstructured data from which it creates a knowledge base.
 
  ### Generative AI
 
   - Its a capability of AI system it automatically create original conent in the form of text, image, visuals, code etc.
+
+    - Azure Open AI will provide tools to create solutions based on Generative AI like Chat based applications.
 
 
      
