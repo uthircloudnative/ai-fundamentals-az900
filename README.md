@@ -45,6 +45,15 @@ This repo provides basics of AI fundamentals and preparation notes for AI-900 ce
 
   - Its a capability of AI system where computer/machine will interpret spoken (voice) or written (text) and respond in kind.
 
+    - With this AI capability we can analyze and intercept natural language text, email messages and create software.
+    - Can able to intercept spoken langugae (voice) and synthesize responses (create software solutions).
+    - Automatically trnslate spoken language from one language to another language.
+    - Intercept commands and make appropriate actions.
+   
+  - **Azuer AI language** provide tools to process NLP bases solutions.
+  - Azure AI speech used to process voice based soultions.
+  - Azure AI Language will understand text and transcripts through which we can build solutions. 
+
   ### Document Intelligence
 
   - Its a capability of AI system where computer/machine will process/mange large volume of data which is in document form.
