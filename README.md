@@ -70,6 +70,19 @@ This repo provides basics of AI fundamentals and preparation notes for AI-900 ce
   - Its a capability of AI system it automatically create original conent in the form of text, image, visuals, code etc.
 
     - Azure Open AI will provide tools to create solutions based on Generative AI like Chat based applications.
+   
+ ### Responsible AI 
+
+  - In Azure any AI based soultion will follow below give principles to develop any solutions responsibly.
+
+    - Fairness - model should treat everyone same (loan application solution).
+    - Reliability and Safty - Solution should be reliable and safe (Autonomous vechile & Medical report interpretation).
+    - Privacey and Security - Must respect user privacy as each AI models deals with large volume of data which includes personal data.
+    - Inclusiveness - Must treat all same irrespective of Race, Ethnicity, Gender etc.
+    - Transparancy - Solution must be easy to undestand by every one provide insight about how its been build.
+    - Accountability - Designers and developers should work with government entity to create responsible AI system.
+
+ 
 
 
      
