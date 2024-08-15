@@ -96,7 +96,7 @@ This repo provides basics of AI fundamentals and preparation notes for AI-900 ce
  
         - _y = f(x)_
 
-  
+    - In the ice cream sales scenario, our goal is to train a model that can predict the number of ice cream sales based on the weather. The weather measurements for the day (temperature, rainfall, windspeed, and so on) would be the features (x), and the number of ice creams sold on each day would be the label (y).
 
 
 
