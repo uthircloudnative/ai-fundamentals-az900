@@ -82,7 +82,22 @@ This repo provides basics of AI fundamentals and preparation notes for AI-900 ce
     - Transparancy - Solution must be easy to undestand by every one provide insight about how its been build.
     - Accountability - Designers and developers should work with government entity to create responsible AI system.
 
+
+ ### Machine Learning in Detail
+
+- Machine Learning model consist of a software application that encapsulates a function to calculate (predict) an output based on one or more input.
+- The process of defining a function is called **training**. This function required some data set which consist of past observation or features or attributes.
+- Once the function is defined which is used to predecit the output which is called **inferencing**
+- In mathamatical terms it can be defined by 3 variables.
+
+    - Features or attributes of a thing which is under observation _x_
+    - An algoritham or a function which interpret these past observed data features and provide a predictive result. This function is called as _f_
+    - The outcome or result of this algorithm is _y_. This is named as lable.
  
+        - _y = f(x)_
+
+  
+
 
 
      
