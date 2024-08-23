@@ -104,6 +104,11 @@ This repo provides basics of AI fundamentals and preparation notes for AI-900 ce
   - This type of ML includes known _features_ and anticipating _lables_. This type ML will use this know features to predicate the lables for future use cases or use case in which its getting applied.
      - Regression
          - In this type of ML the predictable lable value is a numeric. Ex, No of Ice cream sold in a day based on wheather, time etc.
+         -  This type of ML models will undergo 4 step process.
+         -  Split the features (parameters + lables) one part is used to train the algorith or model.other part is used to validate the outcome of training.
+         -  Find a a fitting algorithm to evaluate this data set. For above use case a linear regression algorithm will work. Test the algorithm in multiple iteration.
+         -  Use the second part of the data set to identify lables.
+         -  Compare the known lables from the 2nd data set with original algorithm result and identify/measure the accuracy of the result.
      - Classification - This type of ML in which lable represent a catagrization or class.
         - Binary Clasification
            - This type of classification ML model will predict a particular observed item is or not fall in a specific category. This is kind Yes/No (Positive/Negative).
