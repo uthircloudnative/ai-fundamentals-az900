@@ -98,6 +98,27 @@ This repo provides basics of AI fundamentals and preparation notes for AI-900 ce
 
     - In the ice cream sales scenario, our goal is to train a model that can predict the number of ice cream sales based on the weather. The weather measurements for the day (temperature, rainfall, windspeed, and so on) would be the features (x), and the number of ice creams sold on each day would be the label (y).
 
+### Types of Machine Learning
+
+  - Supervisied Machine Learning
+  - This type of ML includes known _features_ and anticipating _lables_. This type ML will use this know features to predicate the lables for future use cases or use case in which its getting applied.
+     - Regression
+         - In this type of ML the predictable lable value is a numeric. Ex, No of Ice cream sold in a day based on wheather, time etc.
+     - Classification - This type of ML in which lable represent a catagrization or class.
+        - Binary Clasification
+           - This type of classification ML model will predict a particular observed item is or not fall in a specific category. This is kind Yes/No (Positive/Negative).
+              - Does a patient get a diabtes or not.
+              - Does a bank customer will default in a loan or not.
+        - Multiclass Clasification - This type of ML model will predicte a given observed item specific fall under one category from multiple categories. Ex, Given animal is Cow, Goat, Cat
+    
+  - UnSupervisied Machine Learning
+  - This type of ML models will have known feature us this it will predeicte unkown lables.
+
+     - Clustering
+        - In clutsering ML algorthm will identifies similarities between observations based on their features, and groups them into discrete clusters.
+
+           - Ex, Grouping of smilar flowers based on its colour and smell etc
+           - Grouping people based on demograpic and ethnicity.
 
 
      
